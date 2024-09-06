@@ -1,0 +1,1 @@
+insert into scheduled_session (start_date, session_name, passcode) values ('2010-01-01 10:00:00', 'mytestsession', 'mytestpasscode');
